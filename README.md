@@ -25,8 +25,12 @@
     - [Velosity Controling System Design](#Velosity-Controling-System-Design)
 
     - [Turning System Design](#Turning-System-Design)
+ 
+- [Power Architecture](#Power-Architecture)
 
 - [Materials List](#Materials-List)
+
+- [Vehicle Photo](#Vehicle-Photo)
 
 - [Team Photo](#Team-Photo)
 
@@ -100,6 +104,8 @@ We make use of road following model building method of jetson neno.
 At first,we taking some image(around200) and use the different X coordinates repercent the turning (small x-coordinate mean turn left and large x-coordinate mean turn right)
 ![WhatsApp 图像2025-07-02于16 13 12_3bd753ba](https://github.com/user-attachments/assets/b7b7f950-68ac-4f28-852c-f695385f53c6)
 
+## Power Architecture
+
 ## Materials List
 
 - custom built car(WPL D12)
@@ -109,6 +115,8 @@ At first,we taking some image(around200) and use the different X coordinates rep
 - 7.4V 5200mah 25C Bettery
 - 3D printed mounting board(you can find their STL files in the [models] section)
 - orin nano 8GB
+
+## Vehicle Photo
 
 ## Team Photo
 
