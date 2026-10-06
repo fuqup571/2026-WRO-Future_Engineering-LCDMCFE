@@ -32,13 +32,44 @@ Therefore, our main goal in the WRO is to demonstrate our problem-solving abilit
 
 ## Design plan
 
-#### Vehicle Chassis Selection
+### Vehicle Chassis Selection
 
 We used the WPL D12 as the chassis for this vehicle because there are more aftermarket parts available for the WPL D12 compared to other toy cars,thus offering greater modification potential.We also used the WPL D12 in 2024 and 2027,and itsexcellent handling and extremely small turning radius led us to decide to use it again.
 
-####What upgrades were make to WPL D12?
+### What upgrades were make to WPL D12?
+
+We made upgrades,including the rear suspension,front steering servo,and brushless motor,but most importantly,we upgraded the mechanical differential rear axle.
+
+#### Rear Suspension
+
+We adopted a stiffer rear suspension to withstand greater loads,allowing us to install more sensors or other tools.
+
+#### Front Steering Servo
+
+This increases torque,resulting in faster cornering speeds and reducing the risk of hitting obstacles or walls due to slow cornering speeds.
+
+#### Brushless Motor
+
+This can increase torque.
+
+#### Mechanical Differential Rear Axle
+
+In 2024 and 2025, our vehicles lacked a mechanical differential rear axle. This caused a jamming effect when the front steering angle was too large, as both rear wheels were steering in the same direction. This year, however, we've installed a mechanical differential rear axle, allowing the two wheels to travel at different speeds, eliminating the jamming caused by excessive front steering angles.(You can find the sample video in the [other] file)
+
+#### Visual Solutions
+
+For this vehicle,we adopted a purely vision-based solution,so we chose to use the IMX219 camera for road and obstacle recognition because it works out of the box and supports jetson orin nano.
 
 ### Obstacle-Avoidance System Design
+
+Use a ResNet18 to input camera image and generate steering angle. The ResNet18 AI model is trained with pictures that took with on board IMX219 camera and labelled manually to teach the model to turn correctly in different situation
+<img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/23140565-9eb8-437e-823f-192dfa11003c" />
+After that we build a model of yolo to tell Orin Nneo what the object is and it can give action
+
+A YOLO11n model is used to get the boundary box and label of the red/green obstacle. Once the yolo model recognized the obstacle and the obstacle is in range, the program will override ResNet18 model steering output, control car's steering base on obstacle's color and position.
+
+In code,we make use of yolo model to identify object with different colour and follow the flow show in figure1.1
+<img width="1728" height="1079" alt="image" src="https://github.com/user-attachments/assets/9bee869b-9a18-42a4-988b-1bf90bd7021d" />
 
 ### Velosity Controling System Design
 
