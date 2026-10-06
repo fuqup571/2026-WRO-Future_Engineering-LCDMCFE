@@ -6,6 +6,18 @@
 
 - [Design plan](#Design-plan)
 
+    - [Vehicle Chassis Selection](#Vehicle-Chassis-Selection)
+ 
+    - [What upgrades were make to WPL D12?](#What-upgrades-were-make-to-WPL-D12?)
+ 
+        - [Rear Suspension](#Rwar-Suspension)
+     
+        - [Front Steering Servo](#Front-Steering-Servo)
+     
+        - [Brushless Motor](#Brushless-Motor)
+     
+        - [Mechanical Differential Rear Alex](#Mechanical-Differential-Rear-Alex)
+
     - [Obstacle Avoidance System Design](#Obstacle-Avoidance-System-Design)
 
     - [Velosity Controling System Design](#Velosity-Controling-System-Design)
