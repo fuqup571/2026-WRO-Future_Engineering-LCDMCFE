@@ -34,7 +34,7 @@ Therefore, our main goal in the WRO is to demonstrate our problem-solving abilit
 
 ### Vehicle Chassis Selection
 
-We used the WPL D12 as the chassis for this vehicle because there are more aftermarket parts available for the WPL D12 compared to other toy cars,thus offering greater modification potential.We also used the WPL D12 in 2024 and 2027,and itsexcellent handling and extremely small turning radius led us to decide to use it again.
+We used the WPL D12 as the chassis for this vehicle because there are more aftermarket parts available for the WPL D12 compared to other toy cars,thus offering greater modification potential.We also used the WPL D12 in 2024 and 2026,and itsexcellent handling and extremely small turning radius led us to decide to use it again.
 
 ### What upgrades were make to WPL D12?
 
