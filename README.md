@@ -73,9 +73,28 @@ In code,we make use of yolo model to identify object with different colour and f
 
 ### Velosity Controling System Design
 
+At first,we set a throttle value at Orin Neno.We use a separate circuit board to run the PID programme to control and stablize the speed of car to allow us to stop the car at sutible palce on the track through counting the starting time
+
+Here is the graphic shown of how each part of PID avoid the stablize of speed of car
+
+![PID_Compensation_Animated](https://github.com/user-attachments/assets/0fff1022-56bb-44ba-ae9f-740df99037f7)
+
 ### Turning System Design
 
+We make use of road following model building method of jetson neno.
+
+At first,we taking some image(around200) and use the different X coordinates repercent the turning (small x-coordinate mean turn left and large x-coordinate mean turn right)
+![WhatsApp 图像2025-07-02于16 13 12_3bd753ba](https://github.com/user-attachments/assets/b7b7f950-68ac-4f28-852c-f695385f53c6)
+
 ## Materials List
+
+- custom built car(WPL D12)
+- rear wheel drive wheel base
+- metal gear servo
+- 10A mosfet motor driver
+- 7.4V 5200mah 25C Bettery
+- 3D printed mounting board(you can find their STL files in the [models] section)
+- orin nano 8GB
 
 ## Team Photo
 
