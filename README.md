@@ -18,6 +18,8 @@
      
         - [Mechanical Differential Rear Alex](#Mechanical-Differential-Rear-Alex)
 
+    - [Visual Solutions](#Visual-Solutions)
+
     - [Obstacle Avoidance System Design](#Obstacle-Avoidance-System-Design)
 
     - [Velosity Controling System Design](#Velosity-Controling-System-Design)
@@ -68,7 +70,7 @@ This can increase torque.
 
 In 2024 and 2025, our vehicles lacked a mechanical differential rear axle. This caused a jamming effect when the front steering angle was too large, as both rear wheels were steering in the same direction. This year, however, we've installed a mechanical differential rear axle, allowing the two wheels to travel at different speeds, eliminating the jamming caused by excessive front steering angles.(You can find the sample video in the [other] file)
 
-#### Visual Solutions
+### Visual Solutions
 
 For this vehicle,we adopted a purely vision-based solution,so we chose to use the IMX219 camera for road and obstacle recognition because it works out of the box and supports jetson orin nano.
 
