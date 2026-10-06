@@ -6,7 +6,7 @@
 
 - [Design plan](#Design-plan)
 
-    -[Obstacle Avoidance System Design](#Obstacle-Avoidance-System-Design)
+    - [Obstacle Avoidance System Design](#Obstacle-Avoidance-System-Design)
 
     -[Velosity Controling System Design](#Velosity-Controling-System-Design)
 
