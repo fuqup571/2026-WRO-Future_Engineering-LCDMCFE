@@ -12,15 +12,15 @@
 
     -[Turning System Design](#Turning-System-Design)
 
-  -[Materials List](#Materials-List)
+-[Materials List](#Materials-List)
 
 -[Team Photo](#Team-Photo)
 
 -[Videos](#Videos)
 
-  -[Anti-clockwise non-obstacle track](#Anti-clockwise-non-obstacle-track)
+    -[Anti-clockwise non-obstacle track](#Anti-clockwise-non-obstacle-track)
 
-  -[Anti-clockwise obstacle track](#Anti-clockwise-obstacle-track)
+    -[Anti-clockwise obstacle track](#Anti-clockwise-obstacle-track)
 
 -[Reference link](#Reference-link)
 
