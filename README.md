@@ -36,12 +36,13 @@
 
 - [Videos](#Videos)
 
-    - [Clockwise,without obstruction(complete process)](#Clockwise,without-obstruction
-    (complete process))
+    - [Clockwise,without obstruction(complete process)](#Clockwise,without-obstruction(complete-process))
 
-    - [Counterclockwise,without obstruction(complete process)](#Counterclockwise,without obstruction(complete process))
+    - [Counterclockwise,without obstruction(complete process)](#Counterclockwise,without-obstruction(complete-process))
  
-    - [
+    - [Clockwise,have obstacles(complete process)](#Clockwise,have-obstacles(complete-process))
+ 
+    - [Counterclockwise,have obstacles(complete process)](#Counterclockwise,have-obstacles(complete-process))
 
 - [Reference link](#Reference-link)
 
