@@ -126,7 +126,21 @@ At first,we taking some image(around200) and use the different X coordinates rep
 
 ## Vehicle Photo
 
+top
+![image](
+bottom
+
+forward
+
+back
+
+left
+
+right
+
 ## Team Photo
+
+![image](https://github.com/fuqup571/2026-WRO-Future_Engineering-LCDMCFE/blob/main/t-photo/%E9%9A%8A%E7%85%A7%E4%B8%80.jpeg)
 
 ## Videos
 
