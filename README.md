@@ -1,3 +1,5 @@
+**English** | [中文](./README.zh.md)
+
 # 2026-WRO-Future_Engineering-LCDMCFE
 
 ## Contents
