@@ -127,23 +127,23 @@ At first,we taking some image(around200) and use the different X coordinates rep
 ## Vehicle Photo
 
 top
-![image](
+![image](https://github.com/fuqup571/2026-WRO-Future_Engineering-LCDMCFE/blob/main/v-photo/up.jpg)
 bottom
-
+![image](https://github.com/fuqup571/2026-WRO-Future_Engineering-LCDMCFE/blob/main/v-photo/bottom.jpg)
 forward
-
+![image](https://github.com/fuqup571/2026-WRO-Future_Engineering-LCDMCFE/blob/main/v-photo/front.jpg)
 back
-
+![image](https://github.com/fuqup571/2026-WRO-Future_Engineering-LCDMCFE/blob/main/v-photo/back.jpg)
 left
-
+![image](https://github.com/fuqup571/2026-WRO-Future_Engineering-LCDMCFE/blob/main/v-photo/left.jpg)
 right
+![image](https://github.com/fuqup571/2026-WRO-Future_Engineering-LCDMCFE/blob/main/v-photo/right.jpg)
 
 ## Team Photo
 
 ![image](https://github.com/fuqup571/2026-WRO-Future_Engineering-LCDMCFE/blob/main/t-photo/%E9%9A%8A%E7%85%A7%E4%B8%80.jpeg)
 
 ## Videos
-
 ### Counter,without obstruction(complete process)
 
 -
